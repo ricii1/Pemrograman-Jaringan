@@ -1,4 +1,21 @@
-# Socket Programming
+# Socket Programming- [Socket Programming](#socket-programming)
+## Daftar Isi
+- [Socket Programming- Socket Programming](#socket-programming--socket-programming)
+  - [Daftar Isi](#daftar-isi)
+  - [Port Number](#port-number)
+  - [Tipe Socket](#tipe-socket)
+    - [UDP](#udp)
+    - [TCP](#tcp)
+  - [Tipe Alamat](#tipe-alamat)
+    - [AF\_UNIX](#af_unix)
+    - [AF\_INET](#af_inet)
+    - [AF\_INET6](#af_inet6)
+  - [Konsep Klien - Server](#konsep-klien---server)
+    - [Host](#host)
+    - [Port](#port)
+    - [Socket](#socket)
+  - [Kesalahan yang sering terjadi](#kesalahan-yang-sering-terjadi)
+
 ## Port Number
 - Diatur oleh Internet Assigned Numbers Authority (IANA)
 - Tiga range
